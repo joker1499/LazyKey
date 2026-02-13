@@ -1,0 +1,20 @@
+# Build outputs
+build/
+dist/
+
+# PyInstaller temporary files
+*.spec
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python bytecode
+__pycache__/
+*.pyc
